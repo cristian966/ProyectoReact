@@ -1,0 +1,15 @@
+.main {
+  border: red 1px solid;
+  min-height: 30px;
+  padding: 5px;
+}
+.main__elemento1 {
+  padding: 5px;
+  width: 33%;
+  float: left;
+  box-sizing: border-box;
+  border: solid 1px greenyellow;
+  text-align: center;
+}
+
+/*# sourceMappingURL=estilos.css.map */
